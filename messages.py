@@ -5,7 +5,7 @@ import streamlit as st
 from langchain_core.prompts import PromptTemplate , load_prompt
 
 model = ChatGroq(model_name="llama3-70b-8192",
-                api_key="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",
+                api_key='GROQ_API_KEY',
                 temperature=0.5)
 
 
