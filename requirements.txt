@@ -2,3 +2,8 @@ langchain
 langchain-community
 langchain-groq
 langchain-core
+langchain_huggingface
+fastapi
+uvicorn
+faiss-cpu
+langserve
